@@ -7,7 +7,7 @@ import { Alert } from '../components/Alert';
 import { BottomSheet } from '../components/BottomSheet';
 import { Button } from '../components/Button';
 import { format } from 'date-fns';
-import { Trash2, Edit2 } from 'lucide-react';
+import { Trash2 } from 'lucide-react';
 import { clsx } from 'clsx';
 
 export const Ledger: React.FC = () => {
